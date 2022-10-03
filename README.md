@@ -1,10 +1,6 @@
 # Elos
 
-Fight for your life
-
-Kill off the zombies
-
-Buy upgrades
+Fight. Upgrade. Survive.
 
 ### Elos is a third person progressive fighter made in Unreal Engine.
 
