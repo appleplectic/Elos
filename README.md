@@ -14,7 +14,7 @@ Recommended System Specs: 8GB RAM, recent processor, dedicated graphics
 
 How to install: download the ZIP file, extract it to a location of your choosing, and run Elos.exe inside of the Windows folder. Note that if a blue Windows Defender SmartScreen window pops up, you must click "More info" and then "Run Anyways" to start the game.
 
-**Known Issues: **
+**Known Issues:**
 
 If an Intel Graphics Driver error appears, you can try dismissing it. Some users reported the world being red - selecting a graphics preset from the Options menu sometimes mitigated this. This is an issue with Unreal Engine, and not with the game.
 
